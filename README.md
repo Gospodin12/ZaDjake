@@ -1,0 +1,2 @@
+# ZaDjake
+Za djake potrebno
